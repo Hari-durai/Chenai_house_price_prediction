@@ -1,6 +1,15 @@
 # Chenai_house_price_prediction
 chennai house price prediction using kaggle dataset
 
+![Screenshot (120)](https://github.com/Hari-durai/Chenai_house_price_prediction/assets/91016875/ff3cfc2b-f392-4896-bb5d-e79567971db5)
+
+The Predicted Value Is 
+
+![Screenshot (121)](https://github.com/Hari-durai/Chenai_house_price_prediction/assets/91016875/31508bfa-0585-46e7-8f69-7398c15d7bc1)
+
+Compared with real Estate Price
+
+![Screenshot (119)](https://github.com/Hari-durai/Chenai_house_price_prediction/assets/91016875/ca39d77b-ba67-416d-887c-cdcaeff90bd4)
 
 
 This project aims to predict house prices in Chennai, India, based on various features such as location, square footage, number of bedrooms, and more. We have developed a machine learning model to make accurate price predictions, and this README file provides information on how to use the model and run the project.
